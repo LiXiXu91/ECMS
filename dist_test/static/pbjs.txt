@@ -1,0 +1,4 @@
+pbjs -t static-module -w commonjs -o bundle.js login.proto
+
+
+pbjs -t json -o protobuf.json cmd.proto
